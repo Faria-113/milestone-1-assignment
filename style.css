@@ -52,7 +52,7 @@ body{
     padding-bottom: 20px;
     padding-top: 20px;
 }
-#other-amount{
+.other-amount-email{
     text-align: center;
     font-size: 40px;
 }
@@ -114,18 +114,32 @@ body{
     font-size: 30px;
     padding-right: 5%;
 }
-#advertise-partner{
+#advertisement-partner{
     text-align: center;
     background-image: url(donate-today-main/mine/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 100px;
 }
-#advertise-partner h1{
+#advertisement-partner h1{
     font-size: 50px;
 }
-#advertise-partner h2{
+#advertisement-partner h2{
     font-size: 40px;
 }
-#advertise-partner h3{
+#advertisement-partner h3{
     font-size: 30px;
+}
+#email-border{
+    border: 5px solid white;
+    background-color: pink;
+    margin-bottom: 100px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+#be-helpful-color{
+    color: chartreuse;
 }
